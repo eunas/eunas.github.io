@@ -3,6 +3,6 @@
 
 I been working on and off on Gotdeb for a couple of years now, and it's really just a script that I use for my personal servers (25 and counting :) )
 
-Recently I discovered that other people are using the script for their servers as well.<br /> So I decided to make this blog for updates and feature development plans.
+Recently I discovered that other people are using the script for their servers as well. So I decided to make this blog for updates and feature development plans.
 
 Do not hesitate to make a pull request if you have any ideas or changes to the script. I'm always looking to improve it.
