@@ -1,4 +1,5 @@
 = New development blog
+:hp-tags: gotdeb, Blog, Open Source,
 
 I been working on and off on Gotdeb for a couple of years now, and it's really been a script that I used for my personal servers (25 and counting :) )
 
