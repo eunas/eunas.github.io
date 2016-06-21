@@ -1,7 +1,7 @@
 {
   "files": {
     "loop": "partials/loop.hbs",
-    "navigation": "partials/navigation.hbs",
+    "navigation": "partials/nav.hbs",
     "author": "author.hbs",
     "default": "default.hbs",
     "index": "index.hbs",
