@@ -10,7 +10,10 @@
     "description": "Interactive bash script for VPS or Dedicated servers",
     "postsPerPage": "10"
   },
-  "socialnetwork": {},
+  "socialnetwork": {
+    "email": "mh@gotdeb.com",
+    "github": "eunas"
+  },
   "theme": {
     "name": "casper"
   }
