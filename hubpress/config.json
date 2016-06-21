@@ -5,7 +5,11 @@
     "branch": "master",
     "cname": "gotdeb.com"
   },
-  "site": {},
+  "site": {
+    "title": "GotDeb",
+    "description": "Interactive bash script for VPS or Dedicated servers",
+    "postsPerPage": "10"
+  },
   "socialnetwork": {},
   "theme": {
     "name": "casper"
