@@ -2,9 +2,12 @@
   "meta": {
     "username": "eunas",
     "repositoryName": "eunas.github.io",
-    "branch": "master"
+    "branch": "master",
+    "cname": "gotdeb.com"
   },
+  "site": {},
+  "socialnetwork": {},
   "theme": {
-    "name": "Casper"
+    "name": "casper"
   }
 }
