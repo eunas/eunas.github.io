@@ -9,7 +9,7 @@
     "title": "GotDeb",
     "description": "Interactive bash script for VPS or Dedicated servers",
     "logo": "https://raw.githubusercontent.com/eunas/eunas.github.io/master/images/logo.png",
-    "cover": "https://raw.githubusercontent.com/eunas/eunas.github.io/master/images/logo.png",
+    "cover": "",
     "postsPerPage": "10",
     "disqus": "gotdeb"
   },
