@@ -8,6 +8,7 @@
   "site": {
     "title": "GotDeb",
     "description": "Interactive bash script for VPS or Dedicated servers",
+    "logo": "https://raw.githubusercontent.com/eunas/eunas.github.io/master/images/logo.png",
     "postsPerPage": "10",
     "disqus": "gotdeb"
   },
