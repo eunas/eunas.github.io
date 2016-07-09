@@ -1,0 +1,11 @@
+= Version 1.6.6
+
+This version is mainly a bug fix release. If you have any issues please https://github.com/eunas/gotdeb/pulls[submit a pull request]
+
+Changelog:
+
+- Fixed error with SQLite in ghost install *
+- Fixed missing mbstring in phpMyAdmin on Debian 8
+- Updated OpenVPN installer
+- Detect users running with "sh" instead of bash
+- Updated repository and key for Plexmediaserver.
